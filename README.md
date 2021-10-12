@@ -1,5 +1,5 @@
 # esp-timer
-## measures latency of esp32 timers
+## Obtain MAC address of timers -> measure latency of esp32 timers -> achieve accurate timing resuts. This project was used for timing mousetrap cars for division B science olympiad.
 ### the control sends a signal to the timer which will wait for 10 seconds and send a signal back. This time is then compared to an ideal 10 seconds to determine latency of devices
 # To use:
 * Establish which of the ESP modules will have which roles. 
